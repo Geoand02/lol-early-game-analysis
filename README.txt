@@ -7,7 +7,7 @@ A data science project analysing professional League of Legends esports match da
 **University of Nicosia**
 
 ---
-
+##Project video [https://www.youtube.com/watch?v=X-VCSw-fySo]
 ## Project Overview
 
 This project investigates how strongly early-game events (within the first 15 minutes) predict the eventual winner of professional League of Legends matches. The analysis covers three seasons (2019, 2022, 2025) across the five main competitive regions (LCK, LPL, LEC, LCS, PCS), totalling **53,882 team-level match rows**.
@@ -75,7 +75,5 @@ All match data is from [Oracle's Elixir](https://oracleselixir.com), a free publ
 
 ---
 
-## Project Video
 
-[Link in the final presentation]
 
